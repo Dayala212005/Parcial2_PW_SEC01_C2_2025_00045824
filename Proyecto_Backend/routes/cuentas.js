@@ -6,14 +6,14 @@ import {
   obtenerBalanceTotal
 } from "../controller/cuentasController.js";
 
-const router = express.Router();
+const app = express();
 
-router.get("/", obtenerCuentas);
+app.get("/", obtenerCuentas);
 
-router.get("/:id", obtenerCuentaPorId);
+app.get("/:id", obtenerCuentaPorId);
 
-router.get("/query/param", buscarCuentaPorParametro);
+app.get("/query/param", buscarCuentaPorParametro);
 
-router.get("/balance/total", obtenerBalanceTotal);
+app.get("/balance/total", obtenerBalanceTotal);
 
-export default router;
+export default app;
