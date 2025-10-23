@@ -1,0 +1,58 @@
+[
+  {
+    "_id": "668763f0196d296c2e191f77",
+    "isActive": true,
+    "picture": "https://files.consumerfinance.gov/f/images/protected-money.1I4Ko4Aq1_m0o.original.png",
+    "balance": "$3,523.23",
+    "client": "Katie Woodard",
+    "gender": "female"
+  },
+  {
+    "_id": "668763f0196d296c2e191f78",
+    "isActive": false,
+    "picture": "https://files.consumerfinance.gov/f/images/protected-money.1I4Ko4Aq1_m0o.original.png",
+    "balance": "$1,234.11",
+    "client": "John Smith",
+    "gender": "male"
+  },
+  {
+    "_id": "668763f0196d296c2e191f79",
+    "isActive": true,
+    "picture": "https://files.consumerfinance.gov/f/images/protected-money.1I4Ko4Aq1_m0o.original.png",
+    "balance": "$2,782.44",
+    "client": "Maria Lopez",
+    "gender": "female"
+  },
+  {
+    "_id": "668763f0196d296c2e191f80",
+    "isActive": true,
+    "picture": "https://files.consumerfinance.gov/f/images/protected-money.1I4Ko4Aq1_m0o.original.png",
+    "balance": "$9,992.00",
+    "client": "Carlos Perez",
+    "gender": "male"
+  },
+  {
+    "_id": "668763f0196d296c2e191f81",
+    "isActive": false,
+    "picture": "https://files.consumerfinance.gov/f/images/protected-money.1I4Ko4Aq1_m0o.original.png",
+    "balance": "$530.00",
+    "client": "Laura Sanchez",
+    "gender": "female"
+  },
+  {
+    "_id": "668763f0196d296c2e191f82",
+    "isActive": true,
+    "picture": "https://files.consumerfinance.gov/f/images/protected-money.1I4Ko4Aq1_m0o.original.png",
+    "balance": "$8,130.55",
+    "client": "David Castro",
+    "gender": "male"
+  },
+  {
+    "_id": "668763f0196d296c2e191f83",
+    "isActive": true,
+    "picture": "https://files.consumerfinance.gov/f/images/protected-money.1I4Ko4Aq1_m0o.original.png",
+    "balance": "$120.45",
+    "client": "Ana Torres",
+    "gender": "female"
+  }
+]
